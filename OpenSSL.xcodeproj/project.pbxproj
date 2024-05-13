@@ -1923,6 +1923,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/macosx_catalyst/lib",
 				);
+				MARKETING_VERSION = 1.1.2201;
 				OTHER_LDFLAGS = (
 					"-Xlinker",
 					"-all_load",
@@ -2004,6 +2005,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/macosx_catalyst/lib",
 				);
+				MARKETING_VERSION = 1.1.2201;
 				OTHER_LDFLAGS = (
 					"-Xlinker",
 					"-all_load",
@@ -2089,6 +2091,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/iphonesimulator/lib",
 				);
+				MARKETING_VERSION = 1.1.2201;
 				OTHER_LDFLAGS = (
 					"-Xlinker",
 					"-all_load",
@@ -2167,6 +2170,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/iphonesimulator/lib",
 				);
+				MARKETING_VERSION = 1.1.2201;
 				OTHER_LDFLAGS = (
 					"-Xlinker",
 					"-all_load",
@@ -2271,6 +2275,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/iphoneos/lib",
 				);
+				MARKETING_VERSION = 1.1.2201;
 				OTHER_LDFLAGS = (
 					"-Xlinker",
 					"-all_load",
@@ -2353,6 +2358,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/iphoneos/lib",
 				);
+				MARKETING_VERSION = 1.1.2201;
 				OTHER_LDFLAGS = (
 					"-Xlinker",
 					"-all_load",
@@ -2443,6 +2449,7 @@
 					"$(PROJECT_DIR)/macosx/lib",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MARKETING_VERSION = 1.1.2201;
 				OTHER_LDFLAGS = (
 					"-Xlinker",
 					"-all_load",
@@ -2522,6 +2529,7 @@
 					"$(PROJECT_DIR)/macosx/lib",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MARKETING_VERSION = 1.1.2201;
 				OTHER_LDFLAGS = (
 					"-Xlinker",
 					"-all_load",
